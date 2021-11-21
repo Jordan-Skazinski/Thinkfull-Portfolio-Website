@@ -7,12 +7,12 @@ body {
 }
 
 h1, h2, p {
-  color: DarkRed;
+  color: 000000;
   font-size: 14px;
 }
 
 header h1 {
-  color: #7B3B3B;
+  color: #fca311;
 }
 
 main div header h2 {
