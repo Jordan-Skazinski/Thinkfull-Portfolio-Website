@@ -51,7 +51,15 @@ li {
   text-align: center;
 }
 
+.cat-image img {
+  display: block;
+  width: 100%;
+  border: 3px #E5E5E5 solid;
+}
+
 footer nav p {
   color: #000000;
 }
+
+
 
