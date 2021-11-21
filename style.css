@@ -98,35 +98,7 @@ main div:first-of-type {
 }
 
 footer nav p {
-  color: #668284;
+  color: #000000;
 }
-
-/* 
-     Add your nested CSS styles below here: 
-*/
-
-
-/* #1: Change the color of the body to: #fff8ef (light yellow) */
-
-
-
-
-
-/* #2: Change the color of the logo to: #ea570e (orange) */
-
-
-
-
-
-/* #3: Of the [main > div], change 
-        * The background color to: #FBC200 (yellow)
-        * The border to:3 pixels, solid, #FB9800 (orange)
-*/
-
-
-
-
-/* #4: Of the [main > div > footer], change the paragraphs to #FF7F01 (bright orange)
-*/
 
 
