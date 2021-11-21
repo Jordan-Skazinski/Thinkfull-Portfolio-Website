@@ -42,12 +42,6 @@ nav > p {
   padding: 10px;
 }
 
-header,
-nav,
-main,
-footer {
-  font-family: 'Oswald', sans-serif;
-}
 
 header div h1 {
   text-align: center;
@@ -56,36 +50,7 @@ header div h1 {
   font-family: 'Permanent Marker', cursive;
 }
 
-header div nav {
-  margin: 0 0 10px 10px;
-}
 
-header div nav a {
-  padding: 0 15px 10px 20px;
-  text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
-  color: #493736;
-}
-
-header div nav a:hover {
-  color: #14213d;
-}
-
-nav,
-div {
-  width: 300px;
-  margin: auto;
-}
-
-nav:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-main div p {
-  color: #493736;
-}
 
 main div {
   border: 3px solid #668284;
@@ -93,9 +58,6 @@ main div {
   background-color: #fca311;
 }
 
-main div:first-of-type {
-  border-bottom: none;
-}
 
 footer nav p {
   color: #000000;
