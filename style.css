@@ -1,9 +1,4 @@
-/* 
-  DO NOT EDIT THIS BLOCK OF CSS CODE 
 
-  -> ADD YOUR NESTED CSS AT THE BOTTOM
-
-*/
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald|Permanent+Marker');
 body {
@@ -43,7 +38,7 @@ footer div nav p {
 h1,
 ul,
 nav > p {
-  margin: 0;
+  margin: 10;
   padding: 10px;
 }
 
@@ -73,7 +68,7 @@ header div nav a {
 }
 
 header div nav a:hover {
-  color: #668284;
+  color: #14213d;
 }
 
 nav,
@@ -95,7 +90,7 @@ main div p {
 main div {
   border: 3px solid #668284;
   padding: 10px;
-  background-color: #B9D7D9;
+  background-color: #fca311;
 }
 
 main div:first-of-type {
