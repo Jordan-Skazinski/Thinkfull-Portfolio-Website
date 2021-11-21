@@ -1,6 +1,8 @@
 
 
 
+
+
 body {
   margin: 0;
   background-color: #14213d;
@@ -8,7 +10,7 @@ body {
 
 
 header h1 {
-  color: #2bfff4;
+  color: #e1fffd;
 }
 
 main div header h2 {
@@ -42,9 +44,11 @@ header div h1 {
 
 
 main div {
-  border: 6px solid #000000;
-  padding: 10px;
-  background-color: #14213D;
+  border: 10px solid #000000;
+  margin: 1% 20%;
+  padding: 6px 10px;
+  background-color: #203257;
+  border-radius: 20px;
 }
 
 li {
@@ -57,9 +61,6 @@ li {
   border: 3px #E5E5E5 solid;
 }
 
-footer nav p {
-  color: #000000;
-}
 
 
 
