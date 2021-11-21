@@ -35,12 +35,6 @@ footer div nav p {
   text-align: center;
 }
 
-h1,
-nav > p {
-  margin: 10;
-  padding: 10px;
-}
-
 
 header div h1 {
   text-align: center;
@@ -52,7 +46,7 @@ header div h1 {
 
 
 main div {
-  border: 3px solid #000000;
+  border: 6px solid #000000;
   padding: 10px;
   background-color: #14213D;
 }
