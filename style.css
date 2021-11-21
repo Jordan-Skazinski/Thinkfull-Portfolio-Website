@@ -58,6 +58,9 @@ main div {
   background-color: #ffffff;
 }
 
+ul ol {
+  text- align: center;
+}
 
 footer nav p {
   color: #000000;
