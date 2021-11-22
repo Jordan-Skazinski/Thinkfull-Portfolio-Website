@@ -58,6 +58,9 @@ main div {
 li, h3 {
   text-align: center;
 }
+h3 {
+ font-size: 25px; 
+}
 /*the img class, this alows me to add a white ish border around it to make it pop*/
 .cat-image img {
   display: block;
