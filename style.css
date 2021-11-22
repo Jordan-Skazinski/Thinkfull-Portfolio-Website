@@ -37,7 +37,10 @@ header div h1 {
   font-size: 70px;
   margin: 0;
   font-family: serif;
-  height: 100px;
+}
+/*changes the how big the hr dividers are*/
+hr {
+ height: 6px; 
 }
 
 
