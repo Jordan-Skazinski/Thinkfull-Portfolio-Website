@@ -1,37 +1,37 @@
 
 
-
+/*sets the background color to a darker color so the lighter blue stands out */
 body {
   margin: 0;
   background-color: #14213d;
 }
 
-
+/* changes my name at the top color. though in the end i just used a very simalar color to the rest of the text.*/
 header h1 {
   color: #e1fffd;
 }
-
+/*changes the h2 color and size*/
 main div header h2 {
   color: #E5E5E5;
   font-size: 35px;
 }
-
+/*sets the font size for most of the paragraph text*/
 main div p {
   font-size: 20px;
 }
-
+/*this sets the size and color for the list items*/
 main div  {
   color: #E5E5E5;
   font-size: 30px;
 }
-
+/*aligns mostt of the text to the ceter*/
 main div header h2 , 
 main div p, 
 footer div nav p {
   text-align: center;
 }
 
-
+/*this is just for my name at the top again*/
 header div h1 {
   text-align: center;
   font-size: 70px;
@@ -40,7 +40,7 @@ header div h1 {
 }
 
 
-
+/*adds the black boxes around the sections and sets the color inside those boxes*/
 main div {
   border: 10px solid #000000;
   margin: 1% 20%;
@@ -48,11 +48,11 @@ main div {
   background-color: #203257;
   border-radius: 20px;
 }
-
+/*centers the list items text*/
 li {
   text-align: center;
 }
-
+/*the img class, this alows me to add a white ish border around it to make it pop*/
 .cat-image img {
   display: block;
   width: 100%;
