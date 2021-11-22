@@ -49,7 +49,7 @@ main div {
   border-radius: 20px;
 }
 /*centers the list items text*/
-li {
+li, h3 {
   text-align: center;
 }
 /*the img class, this alows me to add a white ish border around it to make it pop*/
