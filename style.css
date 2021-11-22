@@ -40,7 +40,8 @@ header div h1 {
 }
 /*changes the how big the hr dividers are*/
 hr {
- height: 1000px; 
+ height: 50px;
+ background-color: #E5E5E5;
 }
 
 
